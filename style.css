@@ -63,6 +63,7 @@ input {
 
 button {
     background-color: #4CAF50;
+
     color: white;
     /* padding: 10px 98px;  */
     padding-left: 100px;
@@ -72,7 +73,13 @@ button {
     cursor:pointer;
     font-size: large;
     position:relative;
-  
+     border-radius: 3%;
+    border-top-left-radius: 89px;
+    border-top-right-radius: 89px;
+    border-bottom-left-radius: 89px; 
+    border-bottom-right-radius: 89px;
+    object-position: center;
+    
     
 
 }
