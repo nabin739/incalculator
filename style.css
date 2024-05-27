@@ -7,18 +7,22 @@ body {
     background-size: cover;
 }
 
+
 form {
     background-image:url(nature\ \(2\).jpg);
     position:relative;
     max-width: 300px;
-    margin: 10px auto;
+    /* margin: -1px auto; */
     background-color: rgb(249, 251, 252);
-    margin-left: 500px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: auto;
     background-position: center;
     padding: 100px;
-/*     padding-right: 500px;
-    padding-left: 500px; */
+    /* padding-right: 500px; */
+    /* padding-left: 500px; */
     font-size: 30px;
+    visibility:visible;
 
      
 
