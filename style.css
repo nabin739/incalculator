@@ -61,29 +61,20 @@ input {
     box-sizing:unset;
 }
 
-button {
-    background-color: #4CAF50;
+ button{
+        width: 92%;
+       overflow:hidden;
+        padding: 10px;
+        border-radius:0%;
+        border-style:dashed;
+        margin-bottom: 5px;
+        box-sizing: border-box;
+        border-radius: 20px;
 
-    color: white;
-    padding: 10px 98px; 
-    padding-left: 100px;
-    padding-right:100px;
-    border:rgb(242, 105, 1);
-    border-radius: 4px;
-    cursor:pointer;
-    font-size: large;
-    position:relative;
-     border-radius: 3%;
-    border-top-left-radius: 89px;
-    border-top-right-radius: 89px;
-    border-bottom-left-radius: 89px; 
-    border-bottom-right-radius: 89px;
-    object-position: center;
-    /* width: 500px; */
-    pointer-events: visibleFill;
-    position:static;
-   
-
+        color: rgb(243, 245, 241);
+        box-sizing:unset;
+        background-color: #4CAF50;
+    
     
     
 
